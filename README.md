@@ -1,10 +1,10 @@
-<h1>Hi, I'm Mark! <br/><a href="https://www.linkedin.com/in/markrufin/">Service Desk Technician inspiring to transition into Cloud and Cyber security</a>
+<h1>Hi, I'm Mark! <br/><a href="https://www.linkedin.com/in/markrufin/">Service desk technician inspiring to transition into cloud and cyber security</a>
 
 <h2>☁️ Cloud Infrastructure Projects:</h2>
 
 - Microsoft Azure Home Lab
 
-<h2> 🖥️ Earned Certifications:</h2>
+<h2>🖥️ Earned Certifications:</h2>
 
 <h3>CompTIA: </h3>
 
