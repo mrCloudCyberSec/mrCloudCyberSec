@@ -2,7 +2,7 @@
 
 <h2>☁️ Cloud Infrastructure Projects:</h2>
 
-- Microsoft Azure Home Lab
+- [Azure Home Lab](https://github.com/mrCloudCyberSec/AzureHomeLab)
 
 <h2>🖥️ Earned Certifications:</h2>
 
