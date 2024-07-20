@@ -6,7 +6,7 @@
 
 - [Azure Home Lab](https://github.com/mrCloudCyberSec/AzureHomeLab)
 - [Azure Honey Pot Lab](https://github.com/mrCloudCyberSec/AzureHoneyPotLab)
-- Azue Cloud Resume Challenge
+- Azure Cloud Resume Challenge
 
 <h2>🖥️ Earned Certifications:</h2>
 
