@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mark! <br/><a href="https://www.linkedin.com/in/markrufin/">Service desk technician inspiring to transition into cloud and cyber security</a>
+<h1>Hi, I'm Mark! <br/><a href="https://www.linkedin.com/in/markrufin/">Aspiring Cloud Security Engineer | Currently Studying AZ-104</a>
 
 <h2>☁️ Cloud Infrastructure Projects:</h2>
 
@@ -6,6 +6,7 @@
 
 - [Azure Home Lab](https://github.com/mrCloudCyberSec/AzureHomeLab)
 - [Azure Honey Pot Lab](https://github.com/mrCloudCyberSec/AzureHoneyPotLab)
+- Azue Cloud Resume Challenge
 
 <h2>🖥️ Earned Certifications:</h2>
 
