@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mark! <br/><a href="https://www.linkedin.com/in/markrufin/">Aspiring Cloud Security Engineer | Currently Studying AZ-104</a>
+<h1>Hi, I'm Mark! <br/><a href="https://www.linkedin.com/in/markrufin/">Aspiring Cloud Administrator</a>
 
 <h2>☁️ Cloud Infrastructure Projects:</h2>
 
