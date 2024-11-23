@@ -5,7 +5,6 @@
 <h3>Microsoft Azure:</h3>
 
 - [Azure Home Lab](https://github.com/mrCloudCyberSec/AzureHomeLab)
-- [Azure Honey Pot Lab](https://github.com/mrCloudCyberSec/AzureHoneyPotLab)
 - [Azure Cloud Resume Challenge](https://github.com/mrCloudCyberSec/Cloud-Resume-Challenge/tree/main)
 
 <h2>🖥️ Earned Certifications:</h2>
