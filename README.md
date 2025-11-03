@@ -10,16 +10,17 @@
 <h2>🖥️ Earned Certifications:</h2>
 
 <h3>Oracle: </h3>
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate, November 2025
 
 <h3>Microsoft: </h3>
 
-- AZ-900 Azure Fundamentals
-- SC-900 Security, Compliance, and Identity Fundamentals
+- Microsoft Certified: Azure Fundamentals (AZ-900), January 2024 
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900), January 2024
 
 <h3>CompTIA: </h3>
 
-- Security+
+- Security+, June 2020
 
 <h2> 🤳 Connect with me:</h2>
 
